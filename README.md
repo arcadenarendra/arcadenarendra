@@ -9,24 +9,21 @@
 - 🎨 UI/UX Designer & Developer
 - 💻 Currently learning **Web Development**
 - 🚀 Building creative projects
-- 📫 Reach me: yourmail@gmail.com
+- 📫 Reach me: uxnarendra@gmail.com
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/ux-narendra/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com">
+<a href="[https://instagram.com](https://www.instagram.com/narendra.ux/)">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://twitter.com">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"/>
-</a>
 </p>
 
 ---
@@ -44,25 +41,25 @@
 
 ## 📊 GitHub Stats
 
-![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcadenarendra&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=arcadenarendra&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+![](https://github-profile-trophy.vercel.app/?username=arcadenarendra&theme=algolia)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcadenarendra&layout=compact&theme=tokyonight)
 
 ---
 
