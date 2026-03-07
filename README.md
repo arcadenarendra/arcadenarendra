@@ -39,9 +39,6 @@
 
 ---
 
-![snake gif](https://github.com/arcadenarendra/arcadenarendra/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📈 Most Used Languages
 
