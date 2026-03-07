@@ -39,21 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcadenarendra&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=arcadenarendra&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=arcadenarendra&theme=algolia)
+![snake gif](https://github.com/arcadenarendra/arcadenarendra/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
