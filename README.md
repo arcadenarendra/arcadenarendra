@@ -6,8 +6,7 @@
 ## 🚀 About Me
 
 - 🎓 Student
-- 🎨 UI/UX Designer & Developer
-- 💻 Currently learning **Web Development**
+- 💻 Currently learning **Backend Development**
 - 🚀 Building creative projects
 - 📫 Reach me: uxnarendra@gmail.com
 
