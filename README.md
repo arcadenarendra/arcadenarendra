@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra</h1>
-<h3 align="center">UI Designer | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">Tech Enthusiast</h3>
 
 ---
 
