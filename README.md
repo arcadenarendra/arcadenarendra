@@ -1,48 +1,91 @@
-<h1 align="center">Hi 👋, I'm Narendra</h1>
-<h3 align="center">Tech Enthusiast</h3>
+# Hi, I'm Narendra Prajapati 👋
+
+**Backend Developer (Learning) | BCA Student | Open to Internships**
+
+I'm a BCA student passionate about backend development and software engineering. Currently learning **Node.js, Express.js, MongoDB, and REST APIs** while strengthening my understanding of **Data Structures, DBMS, and Object-Oriented Programming**. I enjoy building projects that help me learn real-world backend development.
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Stack
 
-- 🎓 Student
-- 💻 Currently learning **Backend Development**
-- 🚀 Building creative projects
-- 📫 Reach me: uxnarendra@gmail.com
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,java,python" />
+</p>
 
----
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-## 🌐 Connect with Me
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-<p align="left">
-<a href="[https://linkedin.com](https://www.linkedin.com/in/ux-narendra/)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-<a href="[https://instagram.com](https://www.instagram.com/narendra.ux/)">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
-</a>
-
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 📂 Projects
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+### 📝 Todo API
+**Node.js • Express.js • MongoDB**
 
----
+A RESTful Todo API featuring CRUD operations, validation, and MongoDB integration.
 
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcadenarendra&layout=compact&theme=tokyonight)
+🔗 Repository: *Coming Soon*
 
 ---
 
-⭐️ From [Narendra](https://github.com/arcadenarendra)
+### 💰 Expense Tracker API
+**Node.js • Express.js • MongoDB**
+
+Backend API for managing personal expenses with authentication and REST endpoints.
+
+🔗 Repository: *Coming Soon*
+
+---
+
+### 📊 Sparse Matrix Operations
+**C | Data Structures**
+
+Implemented sparse matrix representation and operations using triplet representation for efficient memory usage.
+
+🔗 Repository: *Coming Soon*
+
+---
+
+## 💻 Coding Profiles
+
+- **LeetCode:** https://leetcode.com/u/narendra_get/
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arcadenarendra&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcadenarendra&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/arcadenarendra
+- LinkedIn: Coming Soon
+- Portfolio: Coming soon
+- Email: arcadenarendra@gmail.com
+
+---
+
+⭐ *Always learning, always building.*
